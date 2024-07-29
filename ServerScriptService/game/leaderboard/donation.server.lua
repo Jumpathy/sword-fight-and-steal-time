@@ -1,0 +1,9 @@
+require(script.Parent.board)(
+	"robux",
+	"release_donation-1.0.0.0.15",
+	workspace:WaitForChild("Map"):WaitForChild("Boards"):WaitForChild("Donations"):WaitForChild("BottomBoard"):WaitForChild("SurfaceGui"):WaitForChild("ScrollingFrame"),
+	"N/A",
+	"donations",
+	true,
+	"NPC1"
+)
